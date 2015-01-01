@@ -1,4 +1,4 @@
-## Experimenting With Ruby's Array Methods
+## Experimenting With Ruby's Collection Methods
 
 The reasons for doing this are twofold
 
